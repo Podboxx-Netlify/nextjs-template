@@ -16,7 +16,7 @@
     "daisyui": "^1.6.0",
     "j-toker": "git://github.com/groupefungo/fungo-j-toker",
     "moment": "^2.29.1",
-    "next": "11.0.0",
+    "next": "12.1.0",
     "next-seo": "^4.25.1",
     "nookies": "^2.5.2",
     "nprogress": "^0.2.0",
